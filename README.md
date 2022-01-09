@@ -3,6 +3,9 @@
 
 **Done by: Labib Rahman**
 
+**Usage:** 
+Download Logisim software from [a link](https:http://www.cburch.com/logisim/download.html) and run 18bitInstructionRISCProcessor.circ file
+
 **Introduction:**
 
 This Instruction Set Architecture (ISA) is part of the abstract model of a computer that defines how the CPU is controlled by the software. The CPU designed here is of RISC type and has an instruction width of 18 bits and can perform different arithmetic and logical operations on 32 bit data.
