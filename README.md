@@ -4,7 +4,7 @@
 **Done by: Labib Rahman**
 
 **Usage:** 
-Download [Logisim](https:http://www.cburch.com/logisim/download.html) digital logic simulation tool and run 18bitInstructionRISCProcessor.circ file. Load HEX values for LED matrix display for opcode mnemonic to work. 
+Download [Logisim](https:www.cburch.com/logisim/download.html) digital logic simulation tool and run 18bitInstructionRISCProcessor.circ file. Load HEX values for LED matrix display for opcode mnemonic to work. 
 
 **Introduction:**
 
